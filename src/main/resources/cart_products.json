@@ -1,0 +1,271 @@
+[
+  {
+    "customer": {
+      "id": "616525392",
+      "firstName": "Nurbek",
+      "lastName": "Boboyev",
+      "username": "m_nbu",
+      "phoneNumber": "+998946696195",
+      "language": "RU"
+    },
+    "product": {
+      "id": 1,
+      "nameUz": "Dell G5",
+      "nameRu": "Dell G5",
+      "price": 550,
+      "category": {
+        "id": 1,
+        "nameUz": "Kompyuter",
+        "nameRu": "Компьютер"
+      },
+      "imageUrl": "src/main/resources/images/dell.jpg"
+    },
+    "amount": 2
+  },
+  {
+    "customer": {
+      "id": "616525392",
+      "firstName": "Nurbek",
+      "lastName": "Boboyev",
+      "username": "m_nbu",
+      "phoneNumber": "+998946696195",
+      "language": "RU"
+    },
+    "product": {
+      "id": 4,
+      "nameUz": "Samsung",
+      "nameRu": "Samsung",
+      "price": 600,
+      "category": {
+        "id": 2,
+        "nameUz": "Televizor",
+        "nameRu": "Телевизор"
+      },
+      "imageUrl": "src/main/resources/images/samsung.png"
+    },
+    "amount": 3
+  },
+  {
+    "customer": {
+      "id": "955772084",
+      "firstName": "Xafiza",
+      "lastName": "Maxsumovna",
+      "username": "ayisha0012",
+      "phoneNumber": "+998990803507",
+      "language": "UZ"
+    },
+    "product": {
+      "id": 2,
+      "nameUz": "Acer",
+      "nameRu": "Acer",
+      "price": 500,
+      "category": {
+        "id": 1,
+        "nameUz": "Kompyuter",
+        "nameRu": "Компьютер"
+      },
+      "imageUrl": "src/main/resources/images/acer.jpg"
+    },
+    "amount": 6
+  },
+  {
+    "customer": {
+      "id": "955772084",
+      "firstName": "Xafiza",
+      "lastName": "Maxsumovna",
+      "username": "ayisha0012",
+      "phoneNumber": "+998990803507",
+      "language": "UZ"
+    },
+    "product": {
+      "id": 9,
+      "nameUz": "iPhone 13 Pro",
+      "nameRu": "iPhone 13 Pro",
+      "price": 1300,
+      "category": {
+        "id": 3,
+        "nameUz": "Telefon",
+        "nameRu": "Телефон"
+      },
+      "imageUrl": "src/main/resources/images/iphone_13_pro.jpg"
+    },
+    "amount": 9
+  },
+  {
+    "customer": {
+      "id": "955772084",
+      "firstName": "Xafiza",
+      "lastName": "Maxsumovna",
+      "username": "ayisha0012",
+      "phoneNumber": "+998990803507",
+      "language": "UZ"
+    },
+    "product": {
+      "id": 5,
+      "nameUz": "Sony",
+      "nameRu": "Sony",
+      "price": 400,
+      "category": {
+        "id": 2,
+        "nameUz": "Televizor",
+        "nameRu": "Телевизор"
+      },
+      "imageUrl": "src/main/resources/images/sony.jpg"
+    },
+    "amount": 8
+  },
+  {
+    "customer": {
+      "id": "849154864",
+      "firstName": "S1lent",
+      "phoneNumber": "+998977438007",
+      "language": "RU"
+    },
+    "product": {
+      "id": 4,
+      "nameUz": "Samsung",
+      "nameRu": "Samsung",
+      "price": 600,
+      "category": {
+        "id": 2,
+        "nameUz": "Televizor",
+        "nameRu": "Телевизор"
+      },
+      "imageUrl": "src/main/resources/images/samsung.png"
+    },
+    "amount": 5
+  },
+  {
+    "customer": {
+      "id": "849154864",
+      "firstName": "S1lent",
+      "phoneNumber": "+998977438007",
+      "language": "RU"
+    },
+    "product": {
+      "id": 8,
+      "nameUz": "Samsung A30",
+      "nameRu": "Samsung A30",
+      "price": 250,
+      "category": {
+        "id": 3,
+        "nameUz": "Telefon",
+        "nameRu": "Телефон"
+      },
+      "imageUrl": "src/main/resources/images/samsung_a30.jpg"
+    },
+    "amount": 5
+  },
+  {
+    "customer": {
+      "id": "1942074946",
+      "firstName": "Ortig\u0027ali",
+      "lastName": "★",
+      "username": "Ortigali_159_1829",
+      "phoneNumber": "+998911591829",
+      "language": "UZ"
+    },
+    "product": {
+      "id": 2,
+      "nameUz": "Acer",
+      "nameRu": "Acer",
+      "price": 500,
+      "category": {
+        "id": 1,
+        "nameUz": "Kompyuter",
+        "nameRu": "Компьютер"
+      },
+      "imageUrl": "src/main/resources/images/acer.jpg"
+    },
+    "amount": 5
+  },
+  {
+    "customer": {
+      "id": "1942074946",
+      "firstName": "Ortig\u0027ali",
+      "lastName": "★",
+      "username": "Ortigali_159_1829",
+      "phoneNumber": "+998911591829",
+      "language": "UZ"
+    },
+    "product": {
+      "id": 5,
+      "nameUz": "Sony",
+      "nameRu": "Sony",
+      "price": 400,
+      "category": {
+        "id": 2,
+        "nameUz": "Televizor",
+        "nameRu": "Телевизор"
+      },
+      "imageUrl": "src/main/resources/images/sony.jpg"
+    },
+    "amount": 6
+  },
+  {
+    "customer": {
+      "id": "545459225",
+      "firstName": "Diyorbek",
+      "username": "jabborov010",
+      "phoneNumber": "+998939257550",
+      "language": "UZ"
+    },
+    "product": {
+      "id": 3,
+      "nameUz": "Artel",
+      "nameRu": "Artel",
+      "price": 300,
+      "category": {
+        "id": 2,
+        "nameUz": "Televizor",
+        "nameRu": "Телевизор"
+      },
+      "imageUrl": "src/main/resources/images/artel.png"
+    },
+    "amount": 9
+  },
+  {
+    "customer": {
+      "id": "702213093",
+      "firstName": "Muhammad",
+      "username": "javascriptist",
+      "phoneNumber": "998990338772",
+      "language": "RU"
+    },
+    "product": {
+      "id": 2,
+      "nameUz": "Acer",
+      "nameRu": "Acer",
+      "price": 500,
+      "category": {
+        "id": 1,
+        "nameUz": "Kompyuter",
+        "nameRu": "Компьютер"
+      },
+      "imageUrl": "src/main/resources/images/acer.jpg"
+    },
+    "amount": 1
+  },
+  {
+    "customer": {
+      "id": "1669639848",
+      "firstName": "Shahboz",
+      "username": "Shukrullayev79",
+      "phoneNumber": "+998979210738",
+      "language": "UZ"
+    },
+    "product": {
+      "id": 1,
+      "nameUz": "Dell G5",
+      "nameRu": "Dell G5",
+      "price": 550,
+      "category": {
+        "id": 1,
+        "nameUz": "Kompyuter",
+        "nameRu": "Компьютер"
+      },
+      "imageUrl": "src/main/resources/images/dell.jpg"
+    },
+    "amount": 2
+  }
+]
